@@ -1,0 +1,17 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(
+    to right,
+    hsl(41, 100%, 61%),
+    hsl(192, 100%, 36%)
+  );
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
